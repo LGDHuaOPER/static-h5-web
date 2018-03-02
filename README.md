@@ -1,11 +1,11 @@
-#½éÉÜ
-##ËùÓÃ¹¤¾ß»ò²å¼þ
+# ä»‹ç»
+## æ‰€ç”¨å·¥å…·æˆ–æ’ä»¶
 * jQuery
 * bootstrap
-* nivo-lightbox   // µÆÏäÐ§¹û
-* smoothscroll    // Æ½»¬¹ö¶¯
-* wow             // ¹ö¶¯Ò³ÃæÊ±´¥·¢CSS ¶¯»­Ð§¹û
-##ËùÓÃÖ÷Ìâ
+* nivo-lightbox   // ç¯ç®±æ•ˆæžœ
+* smoothscroll    // å¹³æ»‘æ»šåŠ¨
+* wow             // æ»šåŠ¨é¡µé¢æ—¶è§¦å‘CSS åŠ¨ç”»æ•ˆæžœ
+## æ‰€ç”¨ä¸»é¢˜
 * nivo_themes
-##Ô¤ÀÀ
-* ÔÚ¸ùÄ¿Â¼µÄpreviewÎÄ¼þ¼Ð¿ÉÒÔÔ¤ÀÀÍøÒ³½ØÍ¼
+## é¢„è§ˆ
+* åœ¨æ ¹ç›®å½•çš„previewæ–‡ä»¶å¤¹å¯ä»¥é¢„è§ˆç½‘é¡µæˆªå›¾
